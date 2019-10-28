@@ -16,7 +16,7 @@
 
 ## Bài Tập 4:
     Kiểm tra định dạng ngày tháng năm  DD/MM/YYYY.
-## Bài tập 3:
+## Bài tập 5:
     Kiểm tra định dạng tên người dùng hợp lệ các yêu cầu sau:
     - chữ đầu tiên không phải là số
     - chiều dài trong khoảng 4-12 ký tự
